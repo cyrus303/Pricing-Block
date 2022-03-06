@@ -32,8 +32,8 @@ Final UI screnshot
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/cyrus303/Pricing-Block)
-- Live Site URL: [Add live site URL here](https://confident-yonath-66c92c.netlify.app/)
+- Solution URL: [https://github.com/cyrus303/Pricing-Block]
+- Live Site URL: [https://confident-yonath-66c92c.netlify.app/]
 
 ## My process
 
